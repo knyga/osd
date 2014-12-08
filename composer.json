@@ -1,0 +1,27 @@
+{
+    "name": "knyga/osd",
+    "type": "application",
+    "description": "Scans directory and returns the list of files in the right order",
+    "keywords": ["scandir", "file", "dir", "directory", "scan", "knyga"],
+    "homepage": "https://github.com/knyga/osd",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleksandr Knyga",
+            "email": "oleksandrknyga@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">= 5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": { "Osd\\": "." }
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
