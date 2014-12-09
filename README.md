@@ -43,6 +43,6 @@ Installation via [Composer](http://getcomposer.org/)
 License
 -------
 
-WebExtractor is licensed under the MIT license.
+Osd is licensed under the MIT license.
 
 Oleksandr Knyga <oleksandrknyga@gmail.com>
